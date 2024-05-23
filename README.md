@@ -44,13 +44,13 @@ Various machine learning models were configured and evaluated, including:
 
 The models were trained using pipelines with preprocessing steps like scaling, SMOTE for imbalanced data handling, and PCA for dimensionality reduction. Hyperparameter tuning and learning curve analysis were performed to optimize model performance.
 
-(Detailed model evaluation and performance metrics to be included based on the provided code)
+
 
 ## Conclusion
 
 This analysis highlights the significant impact of academic performance, financial status, and demographic factors on student academic success. The findings can inform targeted interventions and support systems to improve student retention and graduation rates.
 
-(Additional insights and recommendations to be derived from the analysis)
+
 
 Note: This structure provides a high-level overview of the analysis, with placeholders for including specific visualizations, model evaluation results, and additional insights based on the provided code and analysis.
 
